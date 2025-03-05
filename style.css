@@ -5,6 +5,7 @@ body, iframe {
 }
 body {
     height: 100vh;
+    justify-content: baseline;
 }
 iframe {
     width: 100%;
