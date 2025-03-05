@@ -1,6 +1,4 @@
 body, iframe {
-    width: 100%;
-    min-width: 1100px;
     margin: 0;
     padding: 0;
     display: flex;
@@ -9,5 +7,7 @@ body {
     height: 100vh;
 }
 iframe {
+    width: 100%;
+    min-width: 1100px;
     justify-content: center;
 }
