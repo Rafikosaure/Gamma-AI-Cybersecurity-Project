@@ -1,7 +1,7 @@
 body, iframe {
     width: 100%;
-    min-width: 700px;
-    height: auto;
+    min-width: 1100px;
+    height: 100vh;
     margin: 0;
     padding: 0;
 }
