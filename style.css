@@ -1,6 +1,7 @@
 body, iframe {
     width: 100%;
-    height: 100vh;
+    min-width: 700px;
+    height: auto;
     margin: 0;
     padding: 0;
 }
