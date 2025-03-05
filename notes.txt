@@ -1,0 +1,4 @@
+///////////// notes du projet de diaporama avec Gamma AI /////////////
+
+Styles CSS d'origine pour l'iframe: 
+'style="width: 700px; max-width: 100%; height: 450px"'
