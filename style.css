@@ -4,10 +4,10 @@ body, iframe {
 }
 body {
     width: 100%;
-    height: calc(100vh + 4px);
+    height: 100vh;
 }
 iframe {
     width: calc(100% - 4px);
     min-width: 1100px;
-    height: fit-content;
+    height: calc(100vh - 4px);
 }
