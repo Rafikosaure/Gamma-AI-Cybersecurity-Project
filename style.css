@@ -4,7 +4,8 @@ body, iframe {
 }
 body {
     width: 100%;
-    height: fit-content;
+    /* height: calc(100vh - 4px); */
+    overflow-y: hidden;
 }
 iframe {
     width: calc(100% - 4px);
